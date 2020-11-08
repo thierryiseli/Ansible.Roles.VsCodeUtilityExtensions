@@ -1,4 +1,3 @@
-  tasks:
-  - name: Install Visual Studio Code Utility Extensions
-    shell: |
-      code --install-extension streetsidesoftware.code-spell-checker
+- name: Install Visual Studio Code Utility Extensions
+  shell: |
+    code --install-extension streetsidesoftware.code-spell-checker
